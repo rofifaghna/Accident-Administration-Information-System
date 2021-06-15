@@ -1,0 +1,22 @@
+Cara Install
+==================================================================================
+1. Extrak file sipkes.rar atau sipkes.zip
+2. simpan ke folder c:/xampp/htdocs atau ke webserver 
+3. edit file (koneksi.php) di c:/xampp/htdocs/sipkes/config/koneksi.php sesuai pengaturan webserver
+4. Upload data base ke phpmy admin 
+   	--> buka browser localhost/phpmyadmin 
+                --> buat database baru dengan nama simpb
+	--> klik data base yg di buat simpb
+	--> klik impor
+	--> pilih file simpb.sql di c:/xampp/htdocs/sipkes/database/simpb.sql
+7. jalankan di browser dengan url localhost/sipkes
+8. login dengan 
+	username = admin
+	password = admin
+	
+====================================================================================
+
+@2016 POWERED BY AKSINDOTAMA INDONESIA
+
+====================================================================================
+
