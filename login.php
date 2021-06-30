@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+i<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
@@ -50,7 +50,7 @@
 										<span class="red">S</span>
 										<span class="white">IPKES</span>
 									</h1>
-									<h4 class="blue">Kabupaten Tangerang - Banten</h4>
+									<h4 class="blue">Universitas Islam Negeri Sunan Kalijaga</h4>
 								</div>
 							</div>
 
@@ -59,7 +59,6 @@
 									<div id="login-box" class="login-box visible widget-box no-border">
 										<div class="widget-body">
 											<div class="widget-main">
-												 <div align="center"><img src="assets/images/w.jpg" class="img-polaroid"/></div>
 												<h4 class="header blue lighter bigger">
 													<i class="icon-coffee green"></i>
 													Please Enter Your Information
@@ -131,7 +130,7 @@
 
 											<div class="widget-main">
 												<div>
-													 <span class="lbl">Powered By @ AKSINDOTAMA</span>
+													 <span class="lbl">@TIF 19'</span>
 												</div>
 											</div>
 										</div><!--/widget-body-->
