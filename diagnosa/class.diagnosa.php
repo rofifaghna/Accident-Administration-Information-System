@@ -1,6 +1,6 @@
 <?php
 
-class diagnosa
+class diagnosa 
 {
 	private $db;
 	
