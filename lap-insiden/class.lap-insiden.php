@@ -1,6 +1,6 @@
 <?php
 
-class lap_insiden
+class lap_insiden 
 {
 	private $db;
 	
