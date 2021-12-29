@@ -1,6 +1,6 @@
 <?php
 
-class pelkes
+class pelkes 
 {
 	private $db;
 	
