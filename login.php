@@ -1,7 +1,7 @@
 i<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8" />
+		<meta charset="utf-8" /> 
 		<title>Login System</title>
 		<link rel="icon" type="image/jpg" href="assets/images/w.jpg" />
 		<meta name="description" content="User login page" />
