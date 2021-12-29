@@ -2,7 +2,7 @@
 
 class poskotis
 {
-	private $db;
+	private $db; 
 	
 	function __construct($pdo)
 	{
