@@ -1,5 +1,5 @@
 <?php
-    session_start();   
+    session_start();    
     require_once 'class.login.php';
     require_once 'config/koneksi.php';     
     if (isset ($_POST['login'])) {
