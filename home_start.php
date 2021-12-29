@@ -116,7 +116,7 @@ $(document).ready(function() {
                                         GROUP BY
                                         pelkes.id_diagnosa ";
                     }
-                    $pelkes->grafik($query);
+                    $pelkes->grafik($query); 
                 ?>
             ]
       });
