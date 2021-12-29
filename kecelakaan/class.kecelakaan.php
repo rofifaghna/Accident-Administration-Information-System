@@ -4,7 +4,7 @@ class kecelakaan
 {
 	private $db;
 	
-	function __construct($pdo)
+	function __construct($pdo) 
 	{
 		$this->db = $pdo;
 	}
