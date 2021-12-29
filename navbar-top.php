@@ -3,7 +3,7 @@
 				<div class="container-fluid">
 					<a href="#" class="brand">
 						<small>
-							<i class="icon-leaf"></i>
+							<i class="icon-leaf"></i> 
 							SISTEM INFORMASI INSIDEN & PELAYANAN KESEHATAN (SIPKES)
 						</small>
 					</a><!--/.brand-->
