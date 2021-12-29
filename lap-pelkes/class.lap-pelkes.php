@@ -2,7 +2,7 @@
 
 class lap_pelkes
 {
-	private $db;
+	private $db; 
 	
 	function __construct($pdo)
 	{
