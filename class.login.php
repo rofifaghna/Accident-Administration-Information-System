@@ -2,7 +2,7 @@
 	/**
 	 * Description of Login
 	 *
-	 * @author Muhammad Ibrohim
+	 *
 	 */
 	 
 	class Login {
