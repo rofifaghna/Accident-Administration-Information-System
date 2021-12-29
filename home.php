@@ -99,7 +99,7 @@ $(document).ready(function() {
          },
               series:             
             [
-                 //data yang diambil dari database dimasukan ke variable nama dan data
+                 //data yang diambil dari database dimasukan ke variable nama dan data 
                 <?php 
                     $pelkes    = new pelkes($pdo);
                     if ($_SESSION['s_level']=="administrator"){
