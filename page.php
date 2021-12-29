@@ -4,7 +4,7 @@ $path=$page.".php";
 if(file_exists($path)){
 include $path;
 }else{
-echo "
+echo " 
 	<div class='alert'>
 	<button type='button' class='close' data-dismiss='alert'>&times;</button>
 	<strong>Warning!</strong> Page $page not found
