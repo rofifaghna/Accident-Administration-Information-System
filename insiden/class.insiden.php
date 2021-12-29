@@ -1,6 +1,6 @@
 <?php
 
-class insiden
+class insiden 
 {
 	private $db;
 	
