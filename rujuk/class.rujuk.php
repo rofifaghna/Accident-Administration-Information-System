@@ -2,7 +2,7 @@
 
 class rujuk
 {
-	private $db;
+	private $db; 
 	
 	function __construct($pdo)
 	{
