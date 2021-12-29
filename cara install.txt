@@ -1,4 +1,4 @@
-Cara Install
+Cara Install 
 ==================================================================================
 1. Extrak file sipkes.rar atau sipkes.zip
 2. simpan ke folder c:/xampp/htdocs atau ke webserver 
