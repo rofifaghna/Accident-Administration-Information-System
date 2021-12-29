@@ -2,7 +2,7 @@
 //session_start();
 //require_once '../config/koneksi.php';
 //require_once '../user/class.user.php';
-?>
+?> 
 
 <!-- ==================================================================================================== -->
 				<ul class="nav nav-list">
